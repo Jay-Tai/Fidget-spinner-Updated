@@ -1,2 +1,2 @@
 # Fidget-spinner-Updated
-The other repository broke. Working on fixing it.
+This is my own project. To run the code, run the file called main2.py
